@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:md.istekhar.dev@gmail.com">Email</a> •
+  <a href="mailto:istekhar8966@gmail.com">Email</a> •
   <a href="https://github.com/istekhar8966">GitHub</a> •
   <a href="#">Portfolio (soon)</a>
 </p>
