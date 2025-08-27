@@ -5,6 +5,15 @@
 
 ---
 
+### 📫 Contact Me
+<p align="center">
+  <a href="mailto:istekhar8966@gmail.com"><img src="https://img.shields.io/badge/Email-md.istekhar.dev%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/1144074814672343111"><img src="https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+</p>
+<p align="center"><i>Feel free to drop a 'Hello!' or start a conversation about tech, projects, or open-source collaboration.</i></p>
+
+---
+
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -49,9 +58,3 @@ A fast, lightweight, GUI-based YouTube downloader built with Python — designed
 <p>
   <img src="https://streak-stats.demolab.com?user=istekhar8966&theme=transparent" height="150" />
 </p>
-
----
-
-### 📫 Contact
-- **Email:** md.istekhar.dev@gmail.com  
-- **GitHub:** [github.com/istekhar8966](https://github.com/istekhar8966)
