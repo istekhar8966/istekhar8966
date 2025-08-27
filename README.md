@@ -7,7 +7,7 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="mailto:istekhar8966@gmail.com"><img src="https://img.shields.io/badge/Email-md.istekhar.dev%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:istekhar8966@gmail.com"><img src="https://img.shields.io/badge/Email-istekhar8966@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/1144074814672343111"><img src="https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 <p align="center"><i>Feel free to drop a 'Hello!' or start a conversation about tech, projects, or open-source collaboration.</i></p>
