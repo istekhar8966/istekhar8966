@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Md (Istekhar) 👋</h1>
 <p align="center">
-  Student • Self-Taught Developer • Passionate About Open Source & Clean Code
+  Student • Self-Taught Developer • Passionate About Technology & Open Source
 </p>
 
 ---
 
 ### 🛠 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
@@ -19,25 +19,25 @@
 ---
 
 ### 👨‍💻 About Me
-- I am a **student** and **self-taught developer** passionate about technology and open source.  
-- I enjoy building **backend systems**, **clean GUI apps**, and **automation tools**.  
-- Exploring **Web3** and blockchain fundamentals.  
-- Love Linux, scripting, and creating lightweight desktop apps with GTK.  
-- Always curious and eager to learn new technologies.  
+- I am a **student** and **self-taught developer** who loves solving real-world problems through code.  
+- Interested in **Python, C, Bash**, and building apps for **Linux** using **GTK4**.  
+- Exploring **Web3** and fascinated by backend systems and automation tools.  
+- Strong believer in **clean, minimal design** and open-source contribution.  
+- Continuously learning and improving — driven by curiosity and a passion for technology.  
 
 ---
 
-### 🚀 Highlighted Project
+### 🚀 Featured Project
 #### [yt-video-downloader](https://github.com/istekhar8966/yt-video-downloader)
-A fast, GUI-based YouTube downloader built with Python — clean interface, quick performance, and simple setup.
+A fast, lightweight, GUI-based YouTube downloader built with Python — designed for speed, simplicity, and ease of use.
 
 ---
 
 ### 🎯 Current Focus
-- Mastering backend development with Python & C  
-- Exploring Web3 development fundamentals  
-- Contributing to open-source projects  
-- Building minimal, fast, and user-friendly applications  
+- Advancing backend skills (APIs, clean architecture, secure automation).  
+- Learning Web3 fundamentals for future decentralized applications.  
+- Contributing to open-source projects and building developer tools.  
+- Creating minimal, fast, and elegant desktop applications.  
 
 ---
 
