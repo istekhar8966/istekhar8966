@@ -69,4 +69,4 @@ Linux ricing, Neovim setups, Python automation, GTK4 UI, Git workflows
 
 ---
 
-> 📫 Want to reach me? **md.istekhar.dev@gmail.com**
+> 📫 Want to reach me? **istekar8966@gmail.com**
