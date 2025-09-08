@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts,html,css,nodejs,react,docker,mysql,bash,linux,git,neovim,vscode" />
+<img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts,html,css,nodejs,react,docker,mysql,bash,linux,git,vim" />
 
 ## 📂 Highlight Projects
 
