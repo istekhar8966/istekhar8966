@@ -10,7 +10,7 @@
 
 - 🎓 12th PCM student (BSEB) with a dream to contribute to **India’s Cybersecurity field**  
 - 💻 Passionate about **programming, open-source, and automation tools**  
-- 🦀 Currently exploring **Rust, Python, C, and Solidity**  
+- 🦀 Currently exploring **Rust, Python, C, Solidity, JavaScript & TypeScript**  
 - 🌱 Interested in **ZKPs, Soundness ecosystem, and Web3 privacy solutions**  
 - 🐧 Daily driver: **Arch Linux + Neovim**  
 - ⚡ Fun fact: I write more code than notes 😄  
@@ -19,23 +19,25 @@
 
 ## 🛠️ Tech Stack
 
-- **Programming:** Rust, Python, C, Solidity, Bash  
-- **App Dev:** GTK4 (Python), CLI tools, Neovim configs  
-- **Blockchain / Web3:** Solidity, ZKPs, Soundness ecosystem  
-- **Workflow:** Arch Linux, Git, Neovim, custom scripts  
-- **Aspirations:** Cybersecurity, advanced cryptography, automation tools  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts,bash" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
+</p>
 
 ---
 
 ## 📂 Highlight Projects
 
-- 🔹 **[Airdrop Commander](#)** – Multi-wallet airdrop automation tool with proxy & task management  
-- 🔹 **[Custom Python IDE (GTK4)](#)** – Lightweight IDE with syntax highlighting & theming  
-- 🔹 **[Open-source Calculator](#)** – Python + GTK4 calculator app with responsive UI  
-- 🔹 **[CLI-based Keylogger](#)** – Advanced logging tool (for educational purposes)  
-- 🔹 **[Neovim Configs](#)** – Minimal and fast configs for Python & C dev  
+- 🔹 [Airdrop Commander](https://github.com/istekhar8966/Airdrop-Commander) – Multi-wallet airdrop automation tool with proxy & task management  
+- 🔹 [Python IDE (GTK4)](https://github.com/istekhar8966/PyIDE) – Lightweight IDE with syntax highlighting & theming  
+- 🔹 [Open-source Calculator](https://github.com/istekhar8966/Calculator) – Python + GTK4 calculator app with responsive UI  
+- 🔹 [CLI-based Keylogger](https://github.com/istekhar8966/KeyLogger) – Advanced logging tool (for educational purposes)  
+- 🔹 [Neovim Configs](https://github.com/istekhar8966/nvim-config) – Minimal and fast configs for Python & C dev  
 
-*(More on my [repos](https://github.com/istekhar8966))*  
+👉 Check out more on my [GitHub profile](https://github.com/istekhar8966)  
 
 ---
 
@@ -64,5 +66,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=istekhar8966" alt="visitor badge"/>
 </p>
-
-
