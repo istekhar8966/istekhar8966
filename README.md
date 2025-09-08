@@ -1,4 +1,8 @@
-<!-- Header -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/istekhar8966/istekhar8966/main/assets/banner.svg" alt="Welcome Banner"/>
+</p>
+
 <h1 align="center">Hey 👋, I'm Md</h1>
 <p align="center">
   Mad learner | Open Source Enthusiast | Arch btw 🐧 | Exploring Web3 & Cybersecurity
@@ -20,11 +24,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts,bash" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts" />
   <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,docker,mysql" />
+  <br/>
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,neovim,vscode" />
 </p>
 
 ---
