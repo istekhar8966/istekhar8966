@@ -22,18 +22,16 @@
 ---
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts" />
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,docker,mysql" />
-  <br/>
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,neovim,vscode" />
-</p>
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts" />
 
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,docker,mysql" />
+
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=bash,linux,git,neovim,vscode" />
 ---
 
 ## 📂 Highlight Projects
