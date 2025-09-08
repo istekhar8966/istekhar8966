@@ -22,7 +22,13 @@
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts,html,css,nodejs,react,docker,mysql,bash,linux,git,vim" />
+
+| **Category** | **Tools / Technologies** |
+|--------------|---------------------------|
+| **Languages / IDEs** | <img src="https://skillicons.dev/icons?i=python,rust,c,solidity,js,ts" /> |
+| **Frontend / Backend** | <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /> |
+| **Databases / DevOps** | <img src="https://skillicons.dev/icons?i=mysql,docker" /> |
+| **Tools / Editors** | <img src="https://skillicons.dev/icons?i=bash,linux,git,neovim" /> |
 
 ## 📂 Highlight Projects
 
