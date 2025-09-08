@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/istekhar8966/istekhar8966/main/assets/banner.svg" alt="Welcome Banner"/>
+  <img src="https://raw.githubusercontent.com/istekhar8966/istekhar8966/assets/banner.svg" alt="Welcome Banner"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Md</h1>
