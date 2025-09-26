@@ -8,10 +8,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=istekhar8966" alt="Visitors"/>
 </p>
 
-<!-- Typing intro -->
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md+Istekhar;Web3+%26+Open+Source+Enthusiast;Learning+JavaScript+%26+TypeScript;Exploring+Rust,+Solidity,+and+Python)](https://git.io/typing-svg)
-</div>
+!-- Typing intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md+Istekhar;Web3+%26+Open+Source+Enthusiast;Learning+JavaScript+%26+TypeScript;Exploring+Rust,+Solidity,+and+Python)](https://git.io/typing-svg)
 
 ---
 
