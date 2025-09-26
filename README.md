@@ -1,4 +1,4 @@
-k![](assets/Bottom_up.svg)
+![](assets/Bottom_up.svg)
 
 <!-- Badges -->
 <p align="center">
@@ -15,12 +15,11 @@ k![](assets/Bottom_up.svg)
 
 ## 🛠️ Tech Stack
 
-| **Category**            | **Tools / Technologies** |
-|--------------------------|---------------------------|
-| **Languages**            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) 
+| **Category**        | **Tools / Technologies**                                                                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) |
+| **Tools / Workflow** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff) |
 
-| **Tools / Workflow**     | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
- 
 ---
 
 ## 📊 GitHub Stats
