@@ -15,7 +15,7 @@ ___
 
 ## 🧑‍💻 About Me
 
-Passionate about Web3 and open source technologies, I am Md Istekhar—a senior quality developer focused on building secure and verifiable decentralized applications. Currently deepening my expertise in JavaScript, TypeScript, Rust, Solidity, and system-level tools.
+Passionate about Web3 and open source technologies, I am Md Istekhar—a senior quality developer focused on building secure and verifiable decentralized applications. Currently deepening my expertise in Rust, Solidity, and system-level tools.
 
 ---
 
