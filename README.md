@@ -19,8 +19,8 @@ k![](assets/Bottom_up.svg)
 |--------------------------|---------------------------|
 | **Languages**            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) 
 
-| **Tools / Workflow**     | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff) | **Frontend / Backend**   | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=000) |![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=fff) 
-
+| **Tools / Workflow**     | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
+ 
 ---
 
 ## 📊 GitHub Stats
