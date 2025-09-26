@@ -18,8 +18,9 @@
 | **Category**        | **Tools / Technologies**                                                                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) |
-| **Tools / Workflow** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff) |
 
+
+| **Tools / Workflow** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![DWM](https://img.shields.io/badge/-DWM-000000?style=flat&logo=arch-linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff) |
 ---
 
 ## 📊 GitHub Stats
