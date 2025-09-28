@@ -20,11 +20,29 @@ Passionate about Web3 and open source technologies, I am Md Istekhar—a senior 
 ---
 
 ## 🛠️ Tech Stack
-
-| **Category**        | **Tools / Technologies**                                                                                                                                            |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**       | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)                  |
-| **Tools / Workflow** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![DWM](https://img.shields.io/badge/-DWM-000000?style=flat&logo=arch-linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff) |
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" alt="C" />
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+    </td>
+  </tr>
+  <tr>
+    <th>Tools / Workflow</th>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+      <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+      <img src="https://img.shields.io/badge/dwm-000000?style=for-the-badge&logo=arch-linux&logoColor=white" alt="dwm" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" alt="Bash" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
