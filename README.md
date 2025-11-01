@@ -28,19 +28,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **I'm a self-taught Software Developer exploring Web3 development and AI/ML**
 
-🔭 Currently building projects in **Rust, Python, and C**
-🌱 Learning **Web3 technologies** and **Machine Learning**
-💻 Daily driver: **Arch Linux + dwm + Neovim**
-🎯 Focused on **system programming** and **decentralized applications**
-⚡ I love **minimalist setups** and **efficient workflows which is why I use Arch + Dwm 😎**
+ Currently building projects in **Rust, Python, and C**
+ Learning **Web3 technologies** and **Machine Learning**
+ Daily driver: **Arch Linux + dwm + Neovim**
+ Focused on **system programming** and **decentralized applications**
+ I love **minimalist setups** and **efficient workflows which is why I use Arch + Dwm 😎**
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
