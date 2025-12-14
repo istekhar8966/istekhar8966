@@ -28,16 +28,6 @@
 
 ---
 
-## About Me
-
-**I'm a self-taught Software Developer exploring Web3 development and AI/ML**
-
- Currently building projects in **Rust,**
- Learning **Web3 technologies**
- Focused on **system programming**
- I love **minimalist setups**
----
-
 ## Tech Arsenal
 
 <div align="center">
