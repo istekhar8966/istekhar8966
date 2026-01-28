@@ -10,9 +10,6 @@
 <!-- Enhanced badges with better styling -->
 <p>
   <a href="https://github.com/istekhar8966">
-    <img src="https://img.shields.io/badge/Focus-Web3%20&%20Systems-Programing-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Focus">
-  </a>
-  <a href="https://github.com/istekhar8966">
     <img src="https://img.shields.io/github/stars/istekhar8966?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="GitHub Stars">
   </a>
   <a href="https://github.com/istekhar8966?tab=followers">
