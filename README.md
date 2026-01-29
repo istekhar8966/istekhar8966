@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Header with improved gradient text -->
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   Hey there, I'm Md Istekhar
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-<!-- Enhanced badges with better styling -->
 <p>
   <a href="https://github.com/istekhar8966">
     <img src="https://img.shields.io/github/stars/istekhar8966?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="GitHub Stars">
